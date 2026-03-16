@@ -1,0 +1,8 @@
+Metric,Value
+Researcher,"Conceptualization: Prakash Vaithyanathan, India"
+Dimension,600
+Range,"[-300, 300]"
+Seed,0x44d7344f0c5ebfe6
+λ1,15464.051497558306
+Latency,0.0297086238861084
+Complexity_Class,O(N^4)
