@@ -1,6 +1,6 @@
 # Mock Modular Resolution of the N-Dimension Barrier
 
-This repository provides the empirical validation data for the **Polynomial-Time ($O(N^4)$)** resolution of the Shortest Vector Problem (SVP) and the **Fermion Sign Problem**, as presented in our submission to *Science*.
+This repository provides the empirical validation data for the **Polynomial-Time (O(N^4))** resolution of the Shortest Vector Problem (SVP) and the **Fermion Sign Problem**, as presented in our submission to *Science*.
 
 ### **1. The Mathematical Formalism**
 We resolve the "Exponential Wall" of fermionic exchange by establishing a rigorous isomorphism between configuration space and the combinatorial theory of integer partitions. The fluctuating fermionic sign $\sigma(\lambda)$ is topologically protected by the parity of **Dyson's Rank** $R(\lambda)$:
